@@ -3,6 +3,12 @@ import { installGlobals } from "@remix-run/node";
 import { defineConfig } from "vite";
 import tsconfigPaths from "vite-tsconfig-paths";
 
+
+
+// https://vitejs.dev/config/
+
+
+
 installGlobals({ nativeFetch: true });
 
 // Related: https://github.com/remix-run/remix/issues/2835#issuecomment-1144102176
