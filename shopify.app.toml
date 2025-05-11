@@ -3,7 +3,7 @@
 client_id = "e12b4e3c66a60c040b68c8090faa52be"
 name = "cloudhouse-widget"
 handle = "cloudhouse-widget-1"
-application_url = "https://forge-connecting-moisture-pushed.trycloudflare.com"
+application_url = "https://rays-arlington-exports-today.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://forge-connecting-moisture-pushed.trycloudflare.com/auth/callback",
-  "https://forge-connecting-moisture-pushed.trycloudflare.com/auth/shopify/callback",
-  "https://forge-connecting-moisture-pushed.trycloudflare.com/api/auth/callback"
+  "https://rays-arlington-exports-today.trycloudflare.com/auth/callback",
+  "https://rays-arlington-exports-today.trycloudflare.com/auth/shopify/callback",
+  "https://rays-arlington-exports-today.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
